@@ -1,4 +1,4 @@
-# TypeScript Next.js Express Boilerplate
+TypeScript Next.js Express Boilerplate
 ---
 
 Boilerplate project for ts next express application.
